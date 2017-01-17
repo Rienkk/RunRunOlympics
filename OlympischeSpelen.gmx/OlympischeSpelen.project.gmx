@@ -6,29 +6,26 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprites name="Jelmer">
+    <sprites name="Vliegtuig">
       <sprite>sprites\Sprite___Vliegtuig___Jelmer</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
-    <backgrounds name="Elia">
+    <backgrounds name="Vliegtuig">
       <background>background\Achtergrond_voor_bewegen_1___Elia</background>
       <background>background\Achtergron_voor_bewegen_2___Elia</background>
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <objects name="Jelmer">
+    <objects name="Vliegtuig">
       <object>objects\Vliegtuig___Jelmer</object>
     </objects>
     <object>objects\Room_skip</object>
   </objects>
   <rooms name="rooms">
-    <rooms name="Elia">
-      <room>rooms\Achtergrond_bewegen___Elia</room>
-    </rooms>
-    <rooms name="Jelmer">
-      <room>rooms\Vliegtuig_op_en_neer___Jelmer</room>
+    <rooms name="Vliegtuig">
+      <room>rooms\Vliegtuig</room>
     </rooms>
   </rooms>
   <help>
