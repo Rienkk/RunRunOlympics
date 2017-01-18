@@ -9,7 +9,8 @@
     <sprites name="Vliegtuig">
       <sprite>sprites\Sprite___Vliegtuig___Jelmer</sprite>
       <sprite>sprites\Spr_Wolk</sprite>
-      <sprite>sprites\explosion</sprite>
+      <sprite>sprites\spr_grond</sprite>
+      <sprite>sprites\spr_restart</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -23,6 +24,8 @@
     <objects name="Vliegtuig">
       <object>objects\Vliegtuig___Jelmer</object>
       <object>objects\Wolk</object>
+      <object>objects\grond</object>
+      <object>objects\restart</object>
     </objects>
     <object>objects\Room_skip</object>
   </objects>
