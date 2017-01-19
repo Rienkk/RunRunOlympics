@@ -12,6 +12,7 @@
       <sprite>sprites\spr_grond</sprite>
       <sprite>sprites\spr_restart</sprite>
     </sprites>
+    <sprite>sprites\spr_levens</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
@@ -28,6 +29,7 @@
       <object>objects\restart</object>
     </objects>
     <object>objects\Room_skip</object>
+    <object>objects\obj_levens</object>
   </objects>
   <rooms name="rooms">
     <rooms name="Vliegtuig">
