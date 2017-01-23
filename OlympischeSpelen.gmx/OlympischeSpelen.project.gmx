@@ -15,10 +15,7 @@
     </sprites>
   </sprites>
   <backgrounds name="background">
-    <backgrounds name="Vliegtuig">
-      <background>background\Achtergrond_voor_bewegen_1___Elia</background>
-      <background>background\Achtergron_voor_bewegen_2___Elia</background>
-    </backgrounds>
+    <background>background\Achtergrond_vliegtuig</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
