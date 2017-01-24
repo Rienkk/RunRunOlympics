@@ -6,6 +6,9 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+    <sprites name="zwemmen">
+      <sprite>sprites\sprite5</sprite>
+    </sprites>
     <sprites name="Vliegtuig">
       <sprite>sprites\Spr_vliegtuig</sprite>
       <sprite>sprites\Spr_wolk</sprite>
@@ -16,7 +19,12 @@
     </sprites>
   </sprites>
   <backgrounds name="background">
-    <background>background\Achtergrond</background>
+    <backgrounds name="Vliegtuig">
+      <background>background\Achtergrond</background>
+    </backgrounds>
+    <backgrounds name="zwemmen">
+      <background>background\zee_met_lucht</background>
+    </backgrounds>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
@@ -33,6 +41,9 @@
   <rooms name="rooms">
     <rooms name="Vliegtuig">
       <room>rooms\Spel_1___Vliegtuig</room>
+    </rooms>
+    <rooms name="zwemmen">
+      <room>rooms\zwemmen</room>
     </rooms>
   </rooms>
   <help>
