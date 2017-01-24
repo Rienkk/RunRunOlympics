@@ -59,6 +59,7 @@
     <instance objName="Wolk" x="1632" y="352" name="inst_68B8B16F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Bovenkant" x="0" y="0" name="inst_F121471C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Water" x="-128" y="960" name="inst_49A83970" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Timer" x="1472" y="32" name="inst_D3D51B63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
