@@ -19,8 +19,7 @@
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
-      <background>background\Achtergrond_voor_bewegen_1___Elia</background>
-      <background>background\Achtergron_voor_bewegen_2___Elia</background>
+      <background>background\Achtergrond_vliegtuig</background>
     </backgrounds>
     <backgrounds name="zwemmen">
       <background>background\zee_met_lucht</background>
