@@ -6,6 +6,9 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+    <sprites name="zwemmen">
+      <sprite>sprites\sprite5</sprite>
+    </sprites>
     <sprites name="Vliegtuig">
       <sprite>sprites\Sprite___Vliegtuig___Jelmer</sprite>
       <sprite>sprites\Spr_Wolk</sprite>
@@ -18,6 +21,9 @@
     <backgrounds name="Vliegtuig">
       <background>background\Achtergrond_voor_bewegen_1___Elia</background>
       <background>background\Achtergron_voor_bewegen_2___Elia</background>
+    </backgrounds>
+    <backgrounds name="zwemmen">
+      <background>background\zee_met_lucht</background>
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
@@ -34,6 +40,9 @@
   <rooms name="rooms">
     <rooms name="Vliegtuig">
       <room>rooms\Vliegtuig</room>
+    </rooms>
+    <rooms name="zwemmen">
+      <room>rooms\zwemmen</room>
     </rooms>
   </rooms>
   <help>
