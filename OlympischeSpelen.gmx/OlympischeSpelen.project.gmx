@@ -7,30 +7,32 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprites name="Vliegtuig">
-      <sprite>sprites\Sprite___Vliegtuig___Jelmer</sprite>
-      <sprite>sprites\Spr_Wolk</sprite>
-      <sprite>sprites\spr_grond</sprite>
+      <sprite>sprites\Spr_vliegtuig</sprite>
+      <sprite>sprites\Spr_wolk</sprite>
       <sprite>sprites\spr_restart</sprite>
       <sprite>sprites\spr_levens</sprite>
+      <sprite>sprites\Spr_maan</sprite>
+      <sprite>sprites\Spr_filter</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
-    <background>background\Achtergrond_vliegtuig</background>
+    <background>background\Achtergrond</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <objects name="Vliegtuig">
-      <object>objects\Vliegtuig___Jelmer</object>
+      <object>objects\Vliegtuig</object>
+      <object>objects\Filter</object>
       <object>objects\Wolk</object>
-      <object>objects\grond</object>
       <object>objects\restart</object>
       <object>objects\obj_levens</object>
+      <object>objects\Maan</object>
     </objects>
     <object>objects\Room_skip</object>
   </objects>
   <rooms name="rooms">
     <rooms name="Vliegtuig">
-      <room>rooms\Vliegtuig</room>
+      <room>rooms\Spel_1___Vliegtuig</room>
     </rooms>
   </rooms>
   <help>
