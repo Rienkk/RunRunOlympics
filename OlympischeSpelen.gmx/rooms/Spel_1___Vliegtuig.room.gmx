@@ -52,16 +52,16 @@
   </views>
   <instances>
     <instance objName="Room_skip" x="0" y="0" name="inst_DD96E645" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Vliegtuig___Jelmer" x="96" y="192" name="inst_7CB2E235" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wolk" x="320" y="96" name="inst_1873F681" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wolk" x="320" y="160" name="inst_160F706E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wolk" x="320" y="224" name="inst_AA1F03D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wolk" x="320" y="288" name="inst_9DB60447" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wolk" x="320" y="352" name="inst_200B71A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wolk" x="320" y="416" name="inst_C4CAD051" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Vliegtuig" x="96" y="192" name="inst_7CB2E235" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="restart" x="2048" y="480" name="inst_0AC1A379" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_levens" x="1568" y="32" name="inst_FB9A1EF7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Maan" x="0" y="0" name="inst_91750ADF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wolk" x="288" y="64" name="inst_8010D102" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wolk" x="480" y="640" name="inst_F0D7C250" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wolk" x="992" y="512" name="inst_CEE4E742" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Wolk" x="1056" y="64" name="inst_8A152D28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Maan" x="0" y="0" name="inst_CF626C09" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Filter" x="0" y="0" name="inst_4CAB3597" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Filter" x="0" y="0" name="inst_5C298CD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
