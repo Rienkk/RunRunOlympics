@@ -6,18 +6,20 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprites name="zwemmen">
-      <sprite>sprites\spr_pijl</sprite>
-      <sprite>sprites\spr_zwemmer</sprite>
-      <sprite>sprites\spr_eind</sprite>
-    </sprites>
     <sprites name="Vliegtuig">
       <sprite>sprites\Spr_vliegtuig</sprite>
       <sprite>sprites\Spr_wolk</sprite>
       <sprite>sprites\spr_restart</sprite>
-      <sprite>sprites\spr_levens</sprite>
+      <sprite>sprites\spr_leven</sprite>
       <sprite>sprites\Spr_maan</sprite>
       <sprite>sprites\Spr_filter</sprite>
+      <sprite>sprites\Spr_bovenkant</sprite>
+      <sprite>sprites\Spr_water</sprite>
+    </sprites>
+    <sprites name="zwemmen">
+      <sprite>sprites\spr_pijl</sprite>
+      <sprite>sprites\spr_zwemmer</sprite>
+      <sprite>sprites\spr_eind</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -34,19 +36,21 @@
       <object>objects\Vliegtuig</object>
       <object>objects\Filter</object>
       <object>objects\Wolk</object>
-      <object>objects\restart</object>
-      <object>objects\obj_levens</object>
+      <object>objects\Restart</object>
       <object>objects\Maan</object>
+      <object>objects\Bovenkant</object>
+      <object>objects\Water</object>
     </objects>
-    <object>objects\Room_skip</object>
     <objects name="zwemmen">
       <object>objects\zwemmer</object>
       <object>objects\object8</object>
     </objects>
+    <object>objects\Leven</object>
+    <object>objects\Room_skip</object>
   </objects>
   <rooms name="rooms">
     <rooms name="Vliegtuig">
-      <room>rooms\Spel_1___Vliegtuig</room>
+      <room>rooms\Room_vliegtuig</room>
     </rooms>
     <rooms name="zwemmen">
       <room>rooms\zwemmen</room>
