@@ -7,7 +7,9 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprites name="zwemmen">
-      <sprite>sprites\sprite5</sprite>
+      <sprite>sprites\spr_pijl</sprite>
+      <sprite>sprites\spr_zwemmer</sprite>
+      <sprite>sprites\spr_eind</sprite>
     </sprites>
     <sprites name="Vliegtuig">
       <sprite>sprites\Sprite___Vliegtuig___Jelmer</sprite>
@@ -35,6 +37,10 @@
       <object>objects\obj_levens</object>
     </objects>
     <object>objects\Room_skip</object>
+    <objects name="zwemmen">
+      <object>objects\zwemmer</object>
+      <object>objects\object8</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <rooms name="Vliegtuig">
