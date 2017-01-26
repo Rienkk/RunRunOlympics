@@ -55,6 +55,7 @@
     <object>objects\Leven</object>
     <object>objects\Room_skip</object>
     <object>objects\Timer</object>
+    <object>objects\obj_pauze</object>
   </objects>
   <rooms name="rooms">
     <rooms name="Vliegtuig">
