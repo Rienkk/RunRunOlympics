@@ -13,7 +13,7 @@
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
-  <width>2040</width>
+  <width>2048</width>
   <height>1080</height>
-  <data>images\Achtergrond_vliegtuig.png</data>
+  <data>images\Achtergrond_zwemmen.png</data>
 </background>
