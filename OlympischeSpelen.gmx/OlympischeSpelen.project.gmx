@@ -27,10 +27,11 @@
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
-      <background>background\Achtergrond</background>
+      <background>background\Achtergrond_vliegtuig</background>
     </backgrounds>
     <backgrounds name="zwemmen">
       <background>background\zee_met_lucht</background>
+      <background>background\Achtergrond_zwemmen</background>
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
@@ -55,6 +56,7 @@
     <object>objects\Leven</object>
     <object>objects\Room_skip</object>
     <object>objects\Timer</object>
+    <object>objects\obj_pauze</object>
   </objects>
   <rooms name="rooms">
     <rooms name="Vliegtuig">
