@@ -47,11 +47,12 @@
     </objects>
     <objects name="zwemmen">
       <object>objects\zwemmer</object>
-      <object>objects\object8</object>
+      <object>objects\gameover</object>
       <object>objects\up</object>
       <object>objects\down</object>
       <object>objects\left</object>
       <object>objects\right</object>
+      <object>objects\get_back_here</object>
     </objects>
     <object>objects\Leven</object>
     <object>objects\Room_skip</object>
