@@ -53,7 +53,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0.05</string>
+            <string>0.050</string>
           </argument>
         </arguments>
       </action>
@@ -109,11 +109,11 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>10</string>
+            <string>800</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>970</string>
+            <string>600</string>
           </argument>
         </arguments>
       </action>
@@ -350,11 +350,11 @@ else
           </argument>
           <argument>
             <kind>0</kind>
-            <string>100</string>
+            <string>800</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>970</string>
+            <string>550</string>
           </argument>
         </arguments>
       </action>
@@ -378,11 +378,11 @@ else
           </argument>
           <argument>
             <kind>0</kind>
-            <string>200</string>
+            <string>900</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>970</string>
+            <string>550</string>
           </argument>
         </arguments>
       </action>
