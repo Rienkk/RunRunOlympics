@@ -24,6 +24,8 @@
       <sprite>sprites\spr_zwemmer</sprite>
       <sprite>sprites\spr_eind</sprite>
     </sprites>
+    <sprite>sprites\spr_logo</sprite>
+    <sprite>sprites\spr_arrow</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
@@ -35,6 +37,9 @@
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
+  <fonts name="fonts">
+    <font>fonts\fnt_font</font>
+  </fonts>
   <objects name="objects">
     <objects name="Vliegtuig">
       <object>objects\Vliegtuig</object>
@@ -57,7 +62,7 @@
     <object>objects\Leven</object>
     <object>objects\Room_skip</object>
     <object>objects\Timer</object>
-    <object>objects\obj_pauze</object>
+    <object>objects\obj_logo</object>
   </objects>
   <rooms name="rooms">
     <rooms name="Vliegtuig">
@@ -66,6 +71,7 @@
     <rooms name="zwemmen">
       <room>rooms\zwemmen</room>
     </rooms>
+    <room>rooms\rm_titelscherm</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
