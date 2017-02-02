@@ -27,6 +27,7 @@
             <kind>1</kind>
             <string>myTime=30.0
 showTime=myTime 
+
 </string>
           </argument>
         </arguments>
@@ -52,9 +53,58 @@ showTime=myTime
             <string>if myTime &gt; 0 {
 myTime=myTime-delta_time/1000000
 } 
-else {
+
+if myTime = 0 {
 room_goto(zwemmen)
-} 
+}
+ 
+if myTime &lt; 0 {
+myTime=myTime+delta_time/1000000
+}
+
+//if myTime &gt; -1 &lt; 0 {
+//room_restart(); 
+//}
+
+with Wolk 
+  if place_meeting(x, y, Vliegtuig)
+    with other {
+    myTime=-1 
+           
+}
+
+with Water
+  if place_meeting(x, y, Vliegtuig)
+    with other {
+    myTime=-1 
+           
+}
+
+
+
+</string>
+          </argument>
+        </arguments>
+      </action>
+    </event>
+    <event eventtype="4" ename="Wolk">
+      <action>
+        <libid>1</libid>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
+        <functionname></functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>1</kind>
+            <string>Mytime = draw_set_color(c_white)
 </string>
           </argument>
         </arguments>
@@ -79,6 +129,8 @@ room_goto(zwemmen)
             <kind>1</kind>
             <string>draw_set_color(c_black)
 draw_text(x,y, "Time Left:  " + string(myTime)  ) 
+
+
 </string>
           </argument>
         </arguments>
