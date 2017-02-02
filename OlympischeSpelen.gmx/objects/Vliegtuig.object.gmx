@@ -212,7 +212,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>-100</object>
+            <object>Restart</object>
           </argument>
           <argument>
             <kind>0</kind>

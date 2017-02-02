@@ -30,12 +30,7 @@
       <sprite>sprites\spr_eind</sprite>
       <sprite>sprites\sprite16</sprite>
     </sprites>
-<<<<<<< HEAD
-=======
-    <sprite>sprites\spr_logo</sprite>
-    <sprite>sprites\spr_arrow</sprite>
     <sprite>sprites\spr_instellingen</sprite>
->>>>>>> 0059f8a2ae5184c0c27e8dff8df2dfd43b685eb0
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
@@ -73,12 +68,9 @@
     <object>objects\Leven</object>
     <object>objects\Room_skip</object>
     <object>objects\Timer</object>
-<<<<<<< HEAD
-=======
     <object>objects\obj_logo</object>
     <object>objects\obj_instellingen</object>
     <object>objects\obj_instellingenslijst</object>
->>>>>>> 0059f8a2ae5184c0c27e8dff8df2dfd43b685eb0
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_titelscherm</room>
