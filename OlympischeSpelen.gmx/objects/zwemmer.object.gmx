@@ -93,11 +93,11 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>up</object>
+            <object>down</object>
           </argument>
           <argument>
             <kind>10</kind>
-            <object>down</object>
+            <object>up</object>
           </argument>
           <argument>
             <kind>10</kind>
