@@ -7,6 +7,7 @@
   <sounds name="sound">
     <sound>sound\Achtergrondmuziek</sound>
     <sound>sound\Vliegtuig_omhoog</sound>
+    <sound>sound\Sound__water</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_logo</sprite>
@@ -26,11 +27,12 @@
       <sprite>sprites\spr_pijl_down</sprite>
       <sprite>sprites\spr_pijl_left</sprite>
       <sprite>sprites\spr_pijl_right</sprite>
-      <sprite>sprites\spr_zwemmer</sprite>
       <sprite>sprites\spr_eind</sprite>
       <sprite>sprites\sprite16</sprite>
+      <sprite>sprites\spr_zwemmer</sprite>
     </sprites>
     <sprite>sprites\spr_instellingen</sprite>
+    <sprite>sprites\sprite18</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">

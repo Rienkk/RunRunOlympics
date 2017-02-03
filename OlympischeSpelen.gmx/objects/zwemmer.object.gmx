@@ -11,6 +11,50 @@
     <event eventtype="0" enumb="0">
       <action>
         <libid>1</libid>
+        <id>212</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_end_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
+            <sound>Sound__water</sound>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>211</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
+            <sound>Sound__water</sound>
+          </argument>
+          <argument>
+            <kind>3</kind>
+            <string>1</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
         <id>611</id>
         <kind>6</kind>
         <userelative>-1</userelative>
@@ -113,7 +157,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>600</string>
+            <string>800</string>
           </argument>
         </arguments>
       </action>
@@ -354,7 +398,7 @@ else
           </argument>
           <argument>
             <kind>0</kind>
-            <string>550</string>
+            <string>750</string>
           </argument>
         </arguments>
       </action>
@@ -382,7 +426,7 @@ else
           </argument>
           <argument>
             <kind>0</kind>
-            <string>550</string>
+            <string>750</string>
           </argument>
         </arguments>
       </action>
