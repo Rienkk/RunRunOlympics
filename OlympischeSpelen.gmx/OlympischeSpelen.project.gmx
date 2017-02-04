@@ -73,13 +73,16 @@
     </objects>
     <object>objects\Leven</object>
     <object>objects\Room_skip</object>
-    <object>objects\Timer</object>
     <object>objects\obj_pause</object>
     <object>objects\obj_resume</object>
     <object>objects\obj_restart</object>
     <object>objects\obj_instellingen</object>
     <object>objects\obj_muziek</object>
     <object>objects\obj_stoppen</object>
+    <objects name="Timers">
+      <object>objects\Timer</object>
+      <object>objects\Timerzwem</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_titelscherm</room>
