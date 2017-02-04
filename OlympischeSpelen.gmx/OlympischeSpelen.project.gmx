@@ -31,8 +31,11 @@
       <sprite>sprites\sprite16</sprite>
       <sprite>sprites\spr_zwemmer</sprite>
     </sprites>
+    <sprite>sprites\spr_pauze</sprite>
+    <sprite>sprites\resume</sprite>
     <sprite>sprites\spr_instellingen</sprite>
-    <sprite>sprites\sprite18</sprite>
+    <sprite>sprites\spr_muziek</sprite>
+    <sprite>sprites\spr_stoppen</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
@@ -42,6 +45,7 @@
       <background>background\zee_met_lucht</background>
       <background>background\Achtergrond_zwemmen</background>
     </backgrounds>
+    <background>background\pauze</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
@@ -70,9 +74,12 @@
     <object>objects\Leven</object>
     <object>objects\Room_skip</object>
     <object>objects\Timer</object>
-    <object>objects\obj_logo</object>
+    <object>objects\obj_pause</object>
+    <object>objects\obj_resume</object>
+    <object>objects\obj_restart</object>
     <object>objects\obj_instellingen</object>
-    <object>objects\obj_instellingenslijst</object>
+    <object>objects\obj_muziek</object>
+    <object>objects\obj_stoppen</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_titelscherm</room>

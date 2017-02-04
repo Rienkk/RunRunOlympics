@@ -192,6 +192,7 @@
           <argument>
             <kind>1</kind>
             <string>background_hspeed[0] = 0;
+audio_stop_all();
 </string>
           </argument>
         </arguments>
