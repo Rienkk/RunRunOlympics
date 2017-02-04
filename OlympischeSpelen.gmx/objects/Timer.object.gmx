@@ -50,17 +50,15 @@ showTime=myTime
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if myTime &gt; 0 {
+            <string>if (0 &lt; myTime and myTime &lt; 999 ) {
 myTime=myTime-delta_time/1000000
 } 
 
-if myTime = 0 {
-room_goto(zwemmen)
+
+if (-1 &lt; myTime and myTime &lt; 1 ) {
+room_goto(zwemmen)    
 }
- 
-if myTime &lt; 0 {
-myTime=myTime+delta_time/1000000
-}
+
 
 //if myTime &gt; -1 &lt; 0 {
 //room_restart(); 
