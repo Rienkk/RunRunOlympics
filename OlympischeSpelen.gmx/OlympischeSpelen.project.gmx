@@ -31,11 +31,13 @@
       <sprite>sprites\sprite16</sprite>
       <sprite>sprites\spr_zwemmer</sprite>
     </sprites>
-    <sprite>sprites\spr_pauze</sprite>
-    <sprite>sprites\resume</sprite>
-    <sprite>sprites\spr_instellingen</sprite>
-    <sprite>sprites\spr_muziek</sprite>
-    <sprite>sprites\spr_stoppen</sprite>
+    <sprites name="Knoppen">
+      <sprite>sprites\spr_instellingen</sprite>
+      <sprite>sprites\spr_pauze</sprite>
+      <sprite>sprites\resume</sprite>
+      <sprite>sprites\spr_stoppen</sprite>
+      <sprite>sprites\spr_muziek</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
@@ -73,15 +75,17 @@
     </objects>
     <object>objects\Leven</object>
     <object>objects\Room_skip</object>
-    <object>objects\obj_pause</object>
-    <object>objects\obj_resume</object>
-    <object>objects\obj_restart</object>
-    <object>objects\obj_instellingen</object>
-    <object>objects\obj_muziek</object>
-    <object>objects\obj_stoppen</object>
     <objects name="Timers">
       <object>objects\Timer</object>
       <object>objects\Timerzwem</object>
+    </objects>
+    <objects name="Knoppen">
+      <object>objects\obj_pause</object>
+      <object>objects\obj_instellingen</object>
+      <object>objects\obj_muziek</object>
+      <object>objects\obj_stoppen</object>
+      <object>objects\obj_resume</object>
+      <object>objects\obj_restart</object>
     </objects>
   </objects>
   <rooms name="rooms">
@@ -91,6 +95,12 @@
     </rooms>
     <rooms name="zwemmen">
       <room>rooms\zwemmen</room>
+    </rooms>
+    <rooms name="Hordelopen">
+      <room>rooms\Hordelopen</room>
+    </rooms>
+    <rooms name="Speerwerpen">
+      <room>rooms\Speerwerpen</room>
     </rooms>
   </rooms>
   <help>
