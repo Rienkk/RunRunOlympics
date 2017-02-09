@@ -38,6 +38,10 @@
       <sprite>sprites\spr_stoppen</sprite>
       <sprite>sprites\spr_muziek</sprite>
     </sprites>
+    <sprites name="Hordelopen">
+      <sprite>sprites\spr_grond</sprite>
+      <sprite>sprites\spr_hordeloper</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
@@ -86,6 +90,10 @@
       <object>objects\obj_stoppen</object>
       <object>objects\obj_resume</object>
       <object>objects\obj_restart</object>
+    </objects>
+    <objects name="Hordelopen">
+      <object>objects\grond</object>
+      <object>objects\hordeloper</object>
     </objects>
   </objects>
   <rooms name="rooms">
