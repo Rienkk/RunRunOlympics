@@ -71,6 +71,7 @@
     <instance objName="hordeloper" x="224" y="544" name="inst_CFA3EB4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="30"/>
     <instance objName="hordeloper" x="64" y="960" name="inst_E02E351F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pause" x="1824" y="32" name="inst_A5F30B5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_score" x="64" y="32" name="inst_43BE5FD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
