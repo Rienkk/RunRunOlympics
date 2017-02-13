@@ -42,6 +42,11 @@
       <sprite>sprites\spr_grond</sprite>
       <sprite>sprites\spr_hordeloper</sprite>
     </sprites>
+    <sprites name="Speerwerpen">
+      <sprite>sprites\spr_richting</sprite>
+      <sprite>sprites\spr_speer</sprite>
+    </sprites>
+    <sprite>sprites\sprite25</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
@@ -94,6 +99,14 @@
     <objects name="Hordelopen">
       <object>objects\grond</object>
       <object>objects\hordeloper</object>
+    </objects>
+    <objects name="speerwerpen">
+      <object>objects\obj_richting</object>
+      <object>objects\obj_speer</object>
+      <object>objects\Werper</object>
+      <object>objects\Speer</object>
+      <object>objects\Boom</object>
+      <object>objects\grondspeer</object>
     </objects>
   </objects>
   <rooms name="rooms">
