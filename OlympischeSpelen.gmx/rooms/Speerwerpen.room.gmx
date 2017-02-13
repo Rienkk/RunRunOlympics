@@ -57,6 +57,7 @@
     <instance objName="obj_pause" x="1728" y="64" name="inst_3EDD833E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Palmboom" x="1056" y="0" name="inst_BBC8BDE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Palmboom" x="1888" y="256" name="inst_493FC4F4" locked="0" code="" scaleX="-0.800000011920929" scaleY="0.800000011920929" colour="4294967295" rotation="0"/>
+    <instance objName="Kokosnoot" x="1280" y="192" name="inst_85BBFCF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="" x="736" y="160" w="16" h="16" xo="0" yo="0" id="10000001" name="inst_7B753DDF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

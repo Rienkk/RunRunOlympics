@@ -46,6 +46,7 @@
       <sprite>sprites\spr_richting</sprite>
       <sprite>sprites\spr_speer</sprite>
       <sprite>sprites\spr_palmbooom</sprite>
+      <sprite>sprites\spr_kokosnoot</sprite>
     </sprites>
     <sprite>sprites\sprite25</sprite>
   </sprites>
@@ -111,6 +112,7 @@
       <object>objects\Speer</object>
       <object>objects\Palmboom</object>
       <object>objects\grondspeer</object>
+      <object>objects\Kokosnoot</object>
     </objects>
   </objects>
   <rooms name="rooms">
