@@ -65,7 +65,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>global.points = global.points + 1; 
+            <string>global.points = global.points + 10; 
+// punten die je krijgt per hit
 </string>
           </argument>
         </arguments>

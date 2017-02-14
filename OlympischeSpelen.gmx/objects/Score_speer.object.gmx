@@ -26,6 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>global.points = 0;
+//begin punten
 </string>
           </argument>
         </arguments>
