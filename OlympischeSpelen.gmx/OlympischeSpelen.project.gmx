@@ -8,6 +8,7 @@
     <sound>sound\Achtergrondmuziek</sound>
     <sound>sound\Vliegtuig_omhoog</sound>
     <sound>sound\Sound__water</sound>
+    <sound>sound\achtergrondmuziek_speerwerpen</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_logo</sprite>
@@ -41,6 +42,7 @@
     <sprites name="Hordelopen">
       <sprite>sprites\spr_grond</sprite>
       <sprite>sprites\spr_hordeloper</sprite>
+      <sprite>sprites\spr_boomstam</sprite>
     </sprites>
     <sprites name="Speerwerpen">
       <sprite>sprites\spr_richting</sprite>
@@ -105,6 +107,7 @@
     <objects name="Hordelopen">
       <object>objects\grond</object>
       <object>objects\hordeloper</object>
+      <object>objects\Boomstam</object>
     </objects>
     <objects name="speerwerpen">
       <object>objects\obj_richting</object>
