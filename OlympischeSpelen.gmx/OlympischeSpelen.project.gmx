@@ -90,7 +90,6 @@
       <object>objects\get_back_here</object>
     </objects>
     <object>objects\Leven</object>
-    <object>objects\obj_score</object>
     <object>objects\Room_skip</object>
     <objects name="Timers">
       <object>objects\Timer</object>
@@ -107,6 +106,7 @@
     <objects name="Hordelopen">
       <object>objects\grond</object>
       <object>objects\hordeloper</object>
+      <object>objects\obj_score</object>
       <object>objects\Boomstam</object>
     </objects>
     <objects name="speerwerpen">
@@ -117,6 +117,7 @@
       <object>objects\Palmboom</object>
       <object>objects\grondspeer</object>
       <object>objects\Kokosnoot</object>
+      <object>objects\Score_speer</object>
     </objects>
   </objects>
   <rooms name="rooms">
