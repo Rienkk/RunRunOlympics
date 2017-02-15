@@ -53,7 +53,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>50</string>
           </argument>
         </arguments>
       </action>
@@ -144,7 +144,7 @@ angle = image_angle;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>100</string>
+            <string>150</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -172,7 +172,7 @@ angle = image_angle;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>1</string>
+            <string>2</string>
           </argument>
         </arguments>
       </action>
@@ -196,7 +196,7 @@ angle = image_angle;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>100</string>
+            <string>150</string>
           </argument>
           <argument>
             <kind>4</kind>
@@ -224,7 +224,7 @@ angle = image_angle;
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>50</string>
           </argument>
         </arguments>
       </action>
@@ -316,7 +316,8 @@ angle = image_angle;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>draw_healthbar(300, 900, 600, 950, kracht, c_black, c_red, c_lime, 0, true, true)
+            <string>kracht1 = kracht - 50;
+draw_healthbar(300, 900, 600, 950, kracht1, c_black, c_red, c_lime, 0, true, true)
 </string>
           </argument>
         </arguments>
@@ -375,9 +376,9 @@ angle = image_angle;
       </action>
       <action>
         <libid>1</libid>
-        <id>611</id>
-        <kind>6</kind>
-        <userelative>-1</userelative>
+        <id>603</id>
+        <kind>7</kind>
+        <userelative>0</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>2</exetype>
@@ -389,11 +390,9 @@ angle = image_angle;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>richting</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>1</string>
+            <string>global.points = global.points - 1;
+//kosten voor elke speer in punten 
+</string>
           </argument>
         </arguments>
       </action>

@@ -8,6 +8,7 @@
     <sound>sound\Achtergrondmuziek</sound>
     <sound>sound\Vliegtuig_omhoog</sound>
     <sound>sound\Sound__water</sound>
+    <sound>sound\achtergrondmuziek_speerwerpen</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_logo</sprite>
@@ -41,11 +42,13 @@
     <sprites name="Hordelopen">
       <sprite>sprites\spr_grond</sprite>
       <sprite>sprites\spr_hordeloper</sprite>
+      <sprite>sprites\spr_boomstam</sprite>
     </sprites>
     <sprites name="Speerwerpen">
       <sprite>sprites\spr_richting</sprite>
       <sprite>sprites\spr_speer</sprite>
       <sprite>sprites\spr_palmbooom</sprite>
+      <sprite>sprites\spr_kokosnoot</sprite>
     </sprites>
     <sprite>sprites\sprite25</sprite>
   </sprites>
@@ -93,7 +96,6 @@
       <object>objects\get_back_here</object>
     </objects>
     <object>objects\Leven</object>
-    <object>objects\obj_score</object>
     <object>objects\Room_skip</object>
     <objects name="Timers">
       <object>objects\Timer</object>
@@ -110,6 +112,8 @@
     <objects name="Hordelopen">
       <object>objects\grond</object>
       <object>objects\hordeloper</object>
+      <object>objects\obj_score</object>
+      <object>objects\Boomstam</object>
     </objects>
     <objects name="speerwerpen">
       <object>objects\obj_richting</object>
@@ -118,6 +122,8 @@
       <object>objects\Speer</object>
       <object>objects\Palmboom</object>
       <object>objects\grondspeer</object>
+      <object>objects\Kokosnoot</object>
+      <object>objects\Score_speer</object>
     </objects>
   </objects>
   <rooms name="rooms">
