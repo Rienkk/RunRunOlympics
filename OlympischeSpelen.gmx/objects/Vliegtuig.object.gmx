@@ -49,7 +49,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Achtergrondmuziek</sound>
+            <sound>-100</sound>
           </argument>
         </arguments>
       </action>
@@ -69,7 +69,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Sound__water</sound>
+            <sound>-100</sound>
           </argument>
         </arguments>
       </action>
@@ -89,7 +89,7 @@
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Achtergrondmuziek</sound>
+            <sound>-100</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -233,7 +233,7 @@ audio_stop_all();
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>Restart</object>
+            <object>-100</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -453,7 +453,7 @@ audio_stop_all();
         <arguments>
           <argument>
             <kind>6</kind>
-            <sound>Vliegtuig_omhoog</sound>
+            <sound>-100</sound>
           </argument>
           <argument>
             <kind>3</kind>
