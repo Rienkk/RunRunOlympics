@@ -49,6 +49,8 @@
       <sprite>sprites\spr_speer</sprite>
       <sprite>sprites\spr_palmbooom</sprite>
       <sprite>sprites\spr_kokosnoot</sprite>
+      <sprite>sprites\spr_speerwerper</sprite>
+      <sprite>sprites\spr_werper_stil</sprite>
     </sprites>
     <sprite>sprites\sprite25</sprite>
   </sprites>
@@ -125,6 +127,7 @@
       <object>objects\grondspeer</object>
       <object>objects\Kokosnoot</object>
       <object>objects\Score_speer</object>
+      <object>objects\speerwerper_stil</object>
     </objects>
   </objects>
   <rooms name="rooms">
