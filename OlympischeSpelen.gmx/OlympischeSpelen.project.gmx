@@ -17,7 +17,6 @@
       <sprite>sprites\Spr_vliegtuig</sprite>
       <sprite>sprites\Spr_wolk</sprite>
       <sprite>sprites\spr_restart</sprite>
-      <sprite>sprites\spr_leven</sprite>
       <sprite>sprites\Spr_maan</sprite>
       <sprite>sprites\Spr_filter</sprite>
       <sprite>sprites\Spr_bovenkant</sprite>
@@ -43,6 +42,7 @@
       <sprite>sprites\spr_grond</sprite>
       <sprite>sprites\spr_hordeloper</sprite>
       <sprite>sprites\spr_boomstam</sprite>
+      <sprite>sprites\spr_leven</sprite>
     </sprites>
     <sprites name="Speerwerpen">
       <sprite>sprites\spr_richting</sprite>
@@ -95,7 +95,6 @@
       <object>objects\right</object>
       <object>objects\get_back_here</object>
     </objects>
-    <object>objects\Leven</object>
     <object>objects\Room_skip</object>
     <objects name="Timers">
       <object>objects\Timer</object>
@@ -115,6 +114,7 @@
       <object>objects\hordeloper</object>
       <object>objects\obj_score</object>
       <object>objects\Boomstam</object>
+      <object>objects\Leven</object>
     </objects>
     <objects name="speerwerpen">
       <object>objects\obj_richting</object>
