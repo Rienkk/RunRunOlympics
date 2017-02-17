@@ -71,7 +71,7 @@
     <instance objName="obj_score" x="32" y="0" name="inst_43BE5FD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Leven" x="64" y="64" name="inst_F78E9047" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Boomstam" x="832" y="960" name="inst_F2D7356E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="hordeloper" x="64" y="960" name="inst_28C2ADBB" locked="0" code="" scaleX="3" scaleY="3.06451606750488" colour="4294967295" rotation="0"/>
+    <instance objName="hordeloper" x="32" y="992" name="inst_A875F3B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
