@@ -245,7 +245,7 @@
         <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
-        <whoName>zwemmer</whoName>
+        <whoName>self</whoName>
         <relative>0</relative>
         <isnot>0</isnot>
         <arguments>
@@ -463,11 +463,11 @@ else
         <arguments>
           <argument>
             <kind>2</kind>
-            <string>friction</string>
+            <string>stroming</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>800</string>
+            <string>780</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -495,7 +495,7 @@ else
           </argument>
           <argument>
             <kind>0</kind>
-            <string>900</string>
+            <string>920</string>
           </argument>
           <argument>
             <kind>0</kind>
