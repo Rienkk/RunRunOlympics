@@ -31,6 +31,7 @@ instance_deactivate_object(obj_resume);
 instance_deactivate_object(obj_restart);
 instance_deactivate_object(obj_instellingen);
 instance_deactivate_object(obj_muziek);
+instance_deactivate_object(obj_stoppen);
 background_visible[1] = false;
 audio_resume_all();
 </string>
