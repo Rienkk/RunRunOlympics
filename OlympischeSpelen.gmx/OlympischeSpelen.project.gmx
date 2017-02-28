@@ -67,6 +67,9 @@
     <backgrounds name="Speerwerpen">
       <background>background\Achtergrond_speerwerpen</background>
     </backgrounds>
+    <backgrounds name="Hordelopen">
+      <background>background\Achtergrond_hordelopen</background>
+    </backgrounds>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
