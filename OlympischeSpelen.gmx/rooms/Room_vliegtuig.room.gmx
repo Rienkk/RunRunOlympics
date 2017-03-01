@@ -55,13 +55,9 @@
     <instance objName="Vliegtuig" x="96" y="192" name="inst_7CB2E235" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Maan" x="0" y="0" name="inst_5C392924" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Filter" x="0" y="0" name="inst_D81D984B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wolk" x="1632" y="64" name="inst_0DCEF292" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Bovenkant" x="0" y="0" name="inst_F121471C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Water" x="-128" y="960" name="inst_49A83970" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Timer" x="1472" y="32" name="inst_D3D51B63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_pause" x="1824" y="32" name="inst_913BF7A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Wolk2" x="1568" y="320" name="inst_CC8F9BC1" locked="0" code="" scaleX="1" scaleY="1.02400004863739" colour="4294967295" rotation="0"/>
-    <instance objName="Wolk3" x="1632" y="608" name="inst_F0FBC09A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
