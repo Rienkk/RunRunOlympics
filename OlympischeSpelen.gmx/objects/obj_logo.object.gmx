@@ -39,6 +39,7 @@ _y[2] = 150+(29*2);
 txt[0] = "New game";
 txt[1] = "Load game";
 txt[2] = "Quit";
+
 </string>
           </argument>
         </arguments>
@@ -78,7 +79,7 @@ if keyboard_check_pressed(vk_space)
         case 0:
             room_goto(Room_vliegtuig);
         break;
-        
+            
         case 1:
             room_goto(zwemmen);
         break;
