@@ -10,6 +10,8 @@
     <sound>sound\Vliegtuig_omhoog</sound>
     <sound>sound\Sound__water</sound>
     <sound>sound\achtergrondmuziek_speerwerpen</sound>
+    <sound>sound\speerwerp</sound>
+    <sound>sound\kokosnootraken</sound>
     <sound>sound\hordeloperspring</sound>
   </sounds>
   <sprites name="sprites">
