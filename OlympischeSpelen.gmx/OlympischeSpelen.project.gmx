@@ -57,6 +57,11 @@
       <sprite>sprites\spr_werper_stil</sprite>
     </sprites>
     <sprite>sprites\sprite25</sprite>
+    <sprites name="startscherm">
+      <sprite>sprites\sprite32</sprite>
+      <sprite>sprites\sprite34</sprite>
+      <sprite>sprites\sprite33</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
@@ -73,6 +78,7 @@
     <backgrounds name="Hordelopen">
       <background>background\Achtergrond_hordelopen</background>
     </backgrounds>
+    <background>background\background6</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
@@ -83,7 +89,6 @@
     <font>fonts\fnt_font</font>
   </fonts>
   <objects name="objects">
-    <object>objects\obj_logo</object>
     <objects name="Vliegtuig">
       <object>objects\Vliegtuig</object>
       <object>objects\Filter</object>
@@ -135,6 +140,12 @@
       <object>objects\Kokosnoot</object>
       <object>objects\Score_speer</object>
       <object>objects\speerwerper_stil</object>
+    </objects>
+    <objects name="Startscherm">
+      <object>objects\startknop</object>
+      <object>objects\obj_logo</object>
+      <object>objects\quitknop</object>
+      <object>objects\loadgame</object>
     </objects>
   </objects>
   <rooms name="rooms">
