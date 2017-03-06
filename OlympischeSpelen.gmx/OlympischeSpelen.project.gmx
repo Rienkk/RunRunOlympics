@@ -65,6 +65,9 @@
       <sprite>sprites\sprite35</sprite>
       <sprite>sprites\sprite36</sprite>
     </sprites>
+    <sprites name="Text">
+      <sprite>sprites\text_hordelopen</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Vliegtuig">
@@ -154,6 +157,7 @@
       <object>objects\object44</object>
       <object>objects\afsluiten</object>
     </objects>
+    <object>objects\obj_text_hordelopen</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_titelscherm</room>
