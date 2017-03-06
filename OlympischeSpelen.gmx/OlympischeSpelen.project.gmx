@@ -91,6 +91,8 @@
     <path>paths\path0</path>
     <path>paths\path1</path>
     <path>paths\path2</path>
+    <path>paths\path3</path>
+    <path>paths\path4</path>
   </paths>
   <fonts name="fonts">
     <font>fonts\fnt_font</font>
@@ -102,6 +104,8 @@
       <object>objects\Wolk</object>
       <object>objects\Wolk2</object>
       <object>objects\Wolk3</object>
+      <object>objects\Wolk4</object>
+      <object>objects\Wolk_5</object>
       <object>objects\Restart</object>
       <object>objects\Maan</object>
       <object>objects\Bovenkant</object>
