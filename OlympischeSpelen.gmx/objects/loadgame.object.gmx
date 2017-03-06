@@ -25,7 +25,46 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>//load
+            <string>if (file_exists("save.sav"))
+            {
+                ini_open("save.sav");
+                var gameroom = ini_read_real("save","room",0)
+                ini_close();
+                switch gameroom
+            {
+                case 0:
+                    room_goto(Room_vliegtuig);
+                break;
+            
+                case 1:
+                    room_goto(zwemmen);
+                break;
+
+                case 2:
+                    room_goto(Hordelopen);
+                break;
+
+                case 3:
+                    room_goto(Speerwerpen);
+                break;
+            }
+            }
+            else
+            {
+                room_goto(Room_vliegtuig);
+            }
+            
+
+
+
+
+
+
+
+
+
+
+
 </string>
           </argument>
         </arguments>
@@ -48,7 +87,46 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>//load
+            <string>if (file_exists("save.sav"))
+            {
+                ini_open("save.sav");
+                var gameroom = ini_read_real("save","room",0)
+                ini_close();
+                switch gameroom
+            {
+                case 0:
+                    room_goto(Room_vliegtuig);
+                break;
+            
+                case 1:
+                    room_goto(zwemmen);
+                break;
+
+                case 2:
+                    room_goto(Hordelopen);
+                break;
+
+                case 3:
+                    room_goto(Speerwerpen);
+                break;
+            }
+            }
+            else
+            {
+                room_goto(Room_vliegtuig);
+            }
+            
+
+
+
+
+
+
+
+
+
+
+
 </string>
           </argument>
         </arguments>
