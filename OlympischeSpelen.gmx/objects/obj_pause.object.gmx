@@ -81,11 +81,11 @@ background_hspeed[0] = 0;
 background_visible[1] = true;
 instance_activate_object(Room_skip);
 audio_pause_all();
-instance_create(828, y+310, obj_resume);
-instance_create(825, y+380, obj_restart);
+instance_create(750, y+665, obj_resume);
+instance_create(980, y+665, obj_restart);
 instance_create(840, y+450, obj_instellingen);
 instance_create(813, y+520, obj_muziek);
-instance_create(880, y+590, obj_stoppen);
+instance_create(1180, y+180, obj_stoppen);
 }
 </string>
           </argument>
