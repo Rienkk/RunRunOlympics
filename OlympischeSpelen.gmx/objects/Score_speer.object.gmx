@@ -50,7 +50,7 @@
           <argument>
             <kind>1</kind>
             <string>if (global.points &gt; 49 ) {
-room_goto(rm_titelscherm)    
+room_goto(eindscherm_rm)    
 }
 //50 punten nodig voor vervolg game
 </string>
