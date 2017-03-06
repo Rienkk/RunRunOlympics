@@ -47,6 +47,7 @@
       <sprite>sprites\spr_boomstam</sprite>
       <sprite>sprites\spr_horeloper</sprite>
       <sprite>sprites\spr_leven</sprite>
+      <sprite>sprites\spr_hordeloper</sprite>
     </sprites>
     <sprites name="Speerwerpen">
       <sprite>sprites\spr_richting</sprite>
