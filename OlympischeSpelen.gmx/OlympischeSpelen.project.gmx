@@ -62,6 +62,8 @@
       <sprite>sprites\sprite32</sprite>
       <sprite>sprites\sprite34</sprite>
       <sprite>sprites\sprite33</sprite>
+      <sprite>sprites\sprite35</sprite>
+      <sprite>sprites\sprite36</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background">
@@ -80,6 +82,7 @@
       <background>background\Achtergrond_hordelopen</background>
     </backgrounds>
     <background>background\background6</background>
+    <background>background\eindscherm_bg</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
@@ -144,9 +147,12 @@
     </objects>
     <objects name="Startscherm">
       <object>objects\startknop</object>
+      <object>objects\opnieuw_spelen</object>
       <object>objects\obj_logo</object>
       <object>objects\quitknop</object>
       <object>objects\loadgame</object>
+      <object>objects\object44</object>
+      <object>objects\afsluiten</object>
     </objects>
   </objects>
   <rooms name="rooms">
@@ -163,6 +169,7 @@
     <rooms name="Speerwerpen">
       <room>rooms\Speerwerpen</room>
     </rooms>
+    <room>rooms\eindscherm_rm</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
